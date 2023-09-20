@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pexels-thisisengineering-3861972.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Website SupporTech-X 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Design and development of a website for a technology and software development company, specialized in software, computer maintenance and repair, security systems, and photovoltaic systems.",
+    url: "https://www.supporttechx.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "School administration system",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contribute to the development of a web application for managing an educational institution, within a community called Try-Catch.",
+    url: "https://github.com/Trycatch-tv/team-8-frontend",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/miguel104829/Portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Traffic data analysis for a road project.",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Collecting and analyzing traffic data for road projects in Colombia. Valuable information was obtained, contributing to making the projects more efficient and safer.",
+    url: "",
   },
 ];
 
